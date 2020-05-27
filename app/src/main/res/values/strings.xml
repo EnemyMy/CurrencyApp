@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CurrencyApp</string>
+    <string name="main_fragment_title">My currencies</string>
+    <string name="add_currency_fragment_title">Add currency</string>
+
+    <string name="add_currency_fragment_add_button">Add</string>
+    <string name="fragment_add_currency_select_currency_text">Select your currency</string>
+    <string name="fragment_add_currency_no_result_text">No currency was found</string>
+    <string name="fragment_add_currency_network_error_text">Network error</string>
+
+    <string name="main_fragment_choose_charts_text">Choose some charts</string>
+    <string name="main_fragment_network_error_text">Network error</string>
+</resources>

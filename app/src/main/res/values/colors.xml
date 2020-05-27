@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple200">#BB86FC</color>
+    <color name="purple500">#6200EE</color>
+    <color name="purple700">#3700B3</color>
+    <color name="teal200">#03DAC5</color>
+
+    <color name="actionBarBackground">#fff</color>
+    <color name="chartColor">#E42196F3</color>
+    <color name="recycler_item_title_color">#2C2C2C</color>
+    <color name="recycler_item_value_color">#5E5E5E</color>
+    <color name="recycler_item_delete_background_color">#fa315b</color>
+</resources>

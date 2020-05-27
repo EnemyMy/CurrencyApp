@@ -1,0 +1,17 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.App" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@android:color/white</item>
+        <item name="colorPrimaryDark">@android:color/white</item>
+        <item name="colorAccent">@android:color/black</item>
+    </style>
+
+    <style name="ButtonTheme" parent="Theme.App">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/chartColor</item>
+        <item name="colorPrimaryDark">@color/chartColor</item>
+        <item name="colorAccent">@color/chartColor</item>
+    </style>
+
+</resources>
