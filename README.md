@@ -5,6 +5,8 @@ Very simple app to track currencies rates
 - MVP Architecture
 - Kotlin
 - Moxy
+- Retrofit
+- Room
 - RxJava 2
 - Dagger 2
 - Lottie
